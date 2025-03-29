@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Target Distribution",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\target_distribution.png"
+    },
+    {
+        "name": "Quantitative Missing Values",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\quantitative_missing.png"
+    },
+    {
+        "name": "Categorical Missing Values",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\categorical_missing.png"
+    },
+    {
+        "name": "Numerical Feature Distributions",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\numerical_distributions.png"
+    },
+    {
+        "name": "Categorical Feature Distributions",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\categorical_distributions.png"
+    },
+    {
+        "name": "Correlation Heatmap",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\correlation_heatmap.png"
+    },
+    {
+        "name": "Feature-Target Relationships",
+        "path": "C:\\Users\\byb16\\mdscl\\kaggle\\widsdatathon2025\\widsdatathon2025\\reports\\figures\\feature_target_relationships.png"
+    }
+]
